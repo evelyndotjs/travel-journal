@@ -1,0 +1,44 @@
+.blog--wrapper {
+  color: #2b283a;
+  width: 70%;
+  margin: auto;
+  display: flex;
+}
+
+.content--wrapper {
+  flex-direction: column;
+  margin-left: 19px;
+}
+
+.blog--img {
+  min-width: 125px;
+  height: 168px;
+  border-radius: 5px;
+}
+
+.blog--title {
+  font-size: 25px;
+  font-weight: 700;
+  padding: 7px 0 15px;
+}
+
+.blog--dates {
+  font-size: 12px;
+  padding-bottom: 9px;
+}
+
+.blog--description {
+  font-size: 10px;
+}
+
+.blog--location {
+  font-weight: normal;
+  letter-spacing: 0.17em;
+}
+
+.blog--map {
+  color: #918e9b;
+  font-size: 10px;
+  font-weight: normal;
+  padding-left: 12px;
+}
